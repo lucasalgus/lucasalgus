@@ -4,7 +4,7 @@ I'm a 19 year old developer living in Belo Horizonte, Brazil 🇧🇷
 
 I am very passionate about developing awesome user experiences with different technologies. 🛠
 
-My hobbies include music and linguistics. 🎵 🌎
+My hobbies include music and learning new languages. Ich lerne gerade Deutsch! 🎵 🌎
 
 Currently employed as a full-time Front-End developer at [Letras.mus.br](https://github.com/Letras-mus-br) ⭐️
 
