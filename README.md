@@ -2,7 +2,7 @@
 
 I'm a 19 year old developer living in Belo Horizonte, Brazil 🇧🇷
 
-I am very passionate about developing awesome user experiences through different technologies. 🛠
+I am very passionate about developing awesome user experiences with different technologies. 🛠
 
 My hobbies include music and linguistics. 🎵 🌎
 
