@@ -1,6 +1,6 @@
 ### Howdy 🤠
 
-I'm a 19 year old developer living in Belo Horizonte, Brazil 🇧🇷
+I'm a 20 year old developer living in Belo Horizonte, Brazil 🇧🇷
 
 I am very passionate about developing awesome user experiences with different technologies. 🛠
 
