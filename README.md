@@ -6,7 +6,7 @@ I am very passionate about developing awesome user experiences with different te
 
 My hobbies include music and learning new languages. Ich lerne gerade Deutsch! 🎵 🌎
 
-Currently employed as a full-time Front-End developer at [Letras.mus.br](https://github.com/Letras-mus-br) ⭐️
+Currently employed as a full-time application developer at [IBM](https://www.ibm.com/) 👨🏻‍💻
 
 **Get in touch with me through the links below:**
 - [lucasalgus.dev](https://lucasalgus.dev/)
