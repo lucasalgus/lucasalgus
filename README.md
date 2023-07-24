@@ -1,4 +1,4 @@
-### Howdy 🤠
+### Hello!
 
 I'm a developer living in Belo Horizonte, Brazil 🇧🇷
 
