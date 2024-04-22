@@ -4,14 +4,10 @@ I'm a developer living in Belo Horizonte, Brazil 🇧🇷
 
 I am very passionate about developing awesome user experiences with different technologies. 🛠
 
-My hobbies include music and learning new languages. Ich lerne gerade Deutsch! 🎵 🌎
-
-Currently employed as a full-time UX Engineer at [Bonfire](https://www.bonfire.com/) 👨🏻‍💻
-
 **Get in touch with me through the links below:**
 - [lucasalgus.dev](https://lucasalgus.dev/)
 - [Medium](https://medium.com/@lucasalgus)
-- [Twitter](https://twitter.com/lucasalgus)
+- [Twitter](https://twitter.com/lucasalguss)
 - [Instagram](https://www.instagram.com/lucasalguss/)
 - [LinkedIn](https://www.linkedin.com/in/lucasalgus/)
 - [Dribble](https://dribbble.com/lucasalgus)
